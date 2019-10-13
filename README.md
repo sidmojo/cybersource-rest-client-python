@@ -21,7 +21,7 @@ Remember this SDK is for use in server-side Python applications that access the 
 
 
 ## SDK Usage Examples and Sample Code
-To get started using this SDK, it's highly recommended to download our sample code repository:
+To get started using this SDK, it is highly recommended to download our sample code repository:
 * [Cybersource Python Sample Code Repository (on GitHub)](https://github.com/CyberSource/cybersource-rest-samples-python)
 
 In that respository, we have comprehensive sample code for all common uses of our API:
